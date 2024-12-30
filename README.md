@@ -1,8 +1,37 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=99F737&width=2000&size=30&lines= <br> Hi+There+%F0%9F%91%8B%2C+I'm+Not+Yet+A+Passionate+Python+Developer&lines=Or+Data+Engineer&lines=But+Trust+Me—I'm+Working+On+It&lines=And+I'll+Get+There+In+Style+!" alt="Typing SVG" />
-  </a>
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Typing Effect</title>
+  <style>
+    .typing {
+      font-family: 'Fira Code', monospace;
+      font-size: 30px;
+      color: #99F737;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="typing" id="dynamicText"></h1>
+
+  <script>
+    const text = "Hi there 👋 I'm Not Yet A Passionate Python Developer Or Data Engineer, But Trust Me—I'm Working On It, And I'll Get There In Style!";
+    let index = 0;
+
+    function typeText() {
+      if (index < text.length) {
+        document.getElementById('dynamicText').innerText += text.charAt(index);
+        index++;
+        setTimeout(typeText, 50); // Adjust the speed here
+      }
+    }
+
+    typeText(); // Start typing the text
+  </script>
+</body>
+</html>
+
 
 
 
