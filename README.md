@@ -7,11 +7,11 @@
 
 <h3 align="center"> </h3>
 
-- 🔭 I’m currently working on **Data Manipulation, Data Pre-Processing**
+- 🔭 I’m currently working on **Data Manipulation, Data Pre-Processing using Python**
 
 - 🌱 I’m currently learning **Pandas, NumPy, PySpark, Mlib**
 
-- 💬 Ask me about **Flask, RESTful API, SQL**
+- 💬 Ask me about **Java (OOPS) , SQL**
 
 - 📫 How to reach me **anujkrishna1011@gmail.com**
 
