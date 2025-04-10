@@ -1,8 +1,7 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=99F737&width=1000&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Not+Yet+A+Professional+Python+Developer+Or+Data+Engineer," alt="Typing SVG" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=99F737&width=1000&lines=But+Trust+Me—I'm+Working+On+It,+And+I'll+Get+There+In+Style!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=99F737&width=1000&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Not+Yet+A+Professional+Python+Developer+Or+Data+Engineer,But+Trust+Me—I'm+Working+On+It,+And+I'll+Get+There+In+Style!" alt="Typing SVG" />
 </h3>
+
 
 
 <h3 align="center"> </h3>
