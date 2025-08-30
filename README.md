@@ -8,7 +8,7 @@
 
 <h3 align="center"> </h3>
 
-- 🔭 I’m currently working on **Network Troubleshooting, System Administration, and Security Fundamentals**
+- 🔭 I’m currently working on **Network Troubleshooting, Security Monitoring, and Cybersecurity Fundamentals**
 
 - 🌱 I’m currently learning **SIEM Concepts, ITIL Processes, and Monitoring Tools (Wireshark, Nagios)**
 
