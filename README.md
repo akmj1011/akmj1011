@@ -8,11 +8,11 @@
 
 <h3 align="center"> </h3>
 
-- 🔭 I’m currently working on **Data Manipulation, Data Pre-Processing using Python**
+- 🔭 I’m currently working on **Network Troubleshooting, System Administration, and Security Fundamentals**
 
-- 🌱 I’m currently learning **Pandas, NumPy, PySpark, Mlib**
+- 🌱 I’m currently learning **SIEM Concepts, ITIL Processes, and Monitoring Tools (Wireshark, Nagios)**
 
-- 💬 Ask me about **Java (OOPS) , SQL**
+- 💬 Ask me about **Linux (RHCSA), Networking (DNS, TCP/IP, VPN), Cybersecurity Basics and Sql**
 
 - 📫 How to reach me **anujkrishna1011@gmail.com**
 
