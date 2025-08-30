@@ -58,4 +58,16 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
+    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
+  </a>
+  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Nagios_logo.png" alt="nagios" width="70" height="40"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Security_information_and_event_management" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-siem-cyber-security-flaticons-lineal-color-flat-icons.png" alt="siem" width="40" height="40"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/ITIL" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-itil-project-management-flaticons-lineal-color-flat-icons.png" alt="itil" width="40" height="40"/> 
+  </a>
 </p>
