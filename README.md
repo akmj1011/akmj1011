@@ -8,11 +8,11 @@
 
 <h3 align="center"> </h3>
 
-- 🔭 I’m currently working on **Network Troubleshooting, Security Monitoring, and Cybersecurity Fundamentals**
+- 🔭 I’m currently working on **Data Manipulation, Data Visualization, and Buisness Intelligence Fundamentals**
 
-- 🌱 I’m currently learning **SIEM Concepts, ITIL Processes, and Monitoring Tools (Wireshark, Nagios)**
+- 🌱 I’m currently learning **ETL Concepts, API Integrations, Data Workflow Management & ITIL Processes**
 
-- 💬 Ask me about **Linux (RHCSA), Networking (DNS, TCP/IP, VPN), Cybersecurity Basics and Sql**
+- 💬 Ask me about **SQL (MySQL), Python, Linux (RHCSA), Networking (DNS, TCP/IP, VPN), Server & Domain Management (Cpanel)**
 
 - 📫 How to reach me **anujkrishna1011@gmail.com**
 
