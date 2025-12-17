@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anujkrishna1011@gmail.com**
 
-<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <div align="left">
@@ -54,7 +54,7 @@
  
 </div>
 </p>
-<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <div align="left">
