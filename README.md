@@ -19,11 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <div align="left">
-  <a href="https://www.linkedin.com/in/anuj-krishna-j-m-624985238/" target="_blank">
+    <a href="https://www.linkedin.com/in/anuj-krishna-j-m-624985238/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
          width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
+    </a>
+  </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
