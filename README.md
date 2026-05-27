@@ -8,7 +8,7 @@
 
 <h3 align="center"> </h3>
 
-- 🔭 I’m currently working on **Linux (RHEL), Anisble Playbooks, and Docker Compose**
+- 🔭 I’m currently working on **Linux (RHEL), Anisble Playbooks, and Docker**
 
 - 🌱 I’m currently learning **ETL Concepts, API Integrations, Data Workflow Management & ITIL Processes**
 
