@@ -8,7 +8,7 @@
 
 <h3 align="center"> </h3>
 
-- 🔭 I’m currently working on **Data Manipulation, Data Visualization, and Buisness Intelligence Fundamentals**
+- 🔭 I’m currently working on **Linux (RHEL), Anisble Playbooks, and Docker Compose**
 
 - 🌱 I’m currently learning **ETL Concepts, API Integrations, Data Workflow Management & ITIL Processes**
 
